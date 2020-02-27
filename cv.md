@@ -14,3 +14,5 @@
   * Self-study
 # Education
   BSU FAMCS, 3rd course
+# English
+  B1
